@@ -1,16 +1,16 @@
 {
   "name": "@bleeb/ui",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Bleeb design system — brand atoms, Neon components, shadcn/ui, tokens and styles.",
   "license": "MIT",
   "homepage": "https://bleeb.dev",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itboy79/bleeb.dev.git",
+    "url": "https://github.com/bleeb-dev",
     "directory": "packages/ui"
   },
   "bugs": {
-    "url": "https://github.com/itboy79/bleeb.dev/issues"
+    "url": "https://github.com/bleeb-dev/issues"
   },
   "type": "module",
   "sideEffects": [

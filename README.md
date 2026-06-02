@@ -2,7 +2,7 @@
 
 Design system di Bleeb — atomi di brand, componenti Neon, set completo shadcn/ui, token e CSS pronto.
 
-> Versione `0.1.0`. Pacchetto pubblico MIT del design system Bleeb.
+> Versione `0.1.1`. Pacchetto pubblico MIT del design system Bleeb.
 
 ## Installazione
 
