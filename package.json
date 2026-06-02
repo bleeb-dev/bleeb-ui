@@ -6,11 +6,10 @@
   "homepage": "https://bleeb.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bleeb-dev",
-    "directory": "packages/ui"
+    "url": "git+https://github.com/bleeb-dev/bleeb-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/bleeb-dev/issues"
+    "url": "https://github.com/bleeb-dev/bleeb-ui/issues"
   },
   "type": "module",
   "sideEffects": [

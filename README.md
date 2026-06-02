@@ -15,8 +15,7 @@ npm install react react-dom tailwindcss
 Oppure da git (senza pubblicare):
 
 ```bash
-# bun / pnpm supportano i subpath
-bun add @bleeb/ui@github:<org>/<repo>#path:packages/ui
+bun add github:bleeb-dev/bleeb-ui
 ```
 
 ## Setup
@@ -203,4 +202,4 @@ Il sito brand book della repo padre non viene toccato dal build del pacchetto.
 ## Link
 
 - Sito: https://bleeb.dev
-- Issues: https://github.com/bleeb/bleeb/issues
+- Issues: https://github.com/bleeb-dev/bleeb-ui/issues
